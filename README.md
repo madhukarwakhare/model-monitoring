@@ -39,7 +39,6 @@ Project Organization
 
 --------
 
-## :woman_technologist: Installation
 
 ### 1. Fork / Clone this repository
 
