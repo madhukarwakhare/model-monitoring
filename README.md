@@ -1,8 +1,7 @@
 # Enhanced Machine Learning Model Monitoring with FastAPI and Evidently AI: A Step-By-Step Guide
 
-![Evidently.ai + FastAPI](static/banner.png "Dashboard preview")
 
-This example shows steps to integrate Evidently into your production pipeline using FastAPI and PostgreSQL.
+Steps to integrate Evidently into your production pipeline using FastAPI and PostgreSQL.
 
 - Run production ML pipelines for inference and monitoring with [FastAPI](https://fastapi.tiangolo.com/). 
 - Generate data quality and model monitoring reports with EvidenltyAI
